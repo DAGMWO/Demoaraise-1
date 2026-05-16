@@ -1,0 +1,15 @@
+/workspaces/Demoaraise-1/bin/Debug/net10.0/Demoaraise-1
+/workspaces/Demoaraise-1/bin/Debug/net10.0/Demoaraise-1.deps.json
+/workspaces/Demoaraise-1/bin/Debug/net10.0/Demoaraise-1.runtimeconfig.json
+/workspaces/Demoaraise-1/bin/Debug/net10.0/Demoaraise-1.dll
+/workspaces/Demoaraise-1/bin/Debug/net10.0/Demoaraise-1.pdb
+/workspaces/Demoaraise-1/obj/Debug/net10.0/Demoaraise-1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Demoaraise-1/obj/Debug/net10.0/Demoaraise-1.AssemblyInfoInputs.cache
+/workspaces/Demoaraise-1/obj/Debug/net10.0/Demoaraise-1.AssemblyInfo.cs
+/workspaces/Demoaraise-1/obj/Debug/net10.0/Demoaraise-1.csproj.CoreCompileInputs.cache
+/workspaces/Demoaraise-1/obj/Debug/net10.0/Demoaraise-1.sourcelink.json
+/workspaces/Demoaraise-1/obj/Debug/net10.0/Demoaraise-1.dll
+/workspaces/Demoaraise-1/obj/Debug/net10.0/refint/Demoaraise-1.dll
+/workspaces/Demoaraise-1/obj/Debug/net10.0/Demoaraise-1.pdb
+/workspaces/Demoaraise-1/obj/Debug/net10.0/Demoaraise-1.genruntimeconfig.cache
+/workspaces/Demoaraise-1/obj/Debug/net10.0/ref/Demoaraise-1.dll
